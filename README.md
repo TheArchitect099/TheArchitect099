@@ -8,7 +8,7 @@ I'm keeping my personal projects private at the moment since my progress on them
 
 ### Nerd Corner
 * Keyboards: Alligator GK-315 (main keyboard)
-* Editor: Vs code, Cursor, LazyVim
+* Editor: VS Code, Cursor, LazyVim, Zed IDE
 
 ### The vibe
 relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🎧
