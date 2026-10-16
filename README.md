@@ -19,9 +19,6 @@ relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🎧
   <div align="right">
     <br><br><br><br>
     <a href="https://ko-fi.com/P5P51V52ZF">
-      <img src="https://ko-fi.com/img/githubbutton_sm.svg" 
-           height="55" 
-           alt="Support TheArchitect" />
     </a>
   </div>
 </div>
