@@ -11,7 +11,7 @@ I'm keeping my personal projects private at the moment since my progress on them
 * Editor: VS Code, Cursor, LazyVim, Zed IDE
 
 ### The vibe
-relax, write some code, be a tea drinking canadian nerd, and enjoy life 💻🎧
+🎮 Music • Games • Code • Art
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018" width="180" align="left" />
