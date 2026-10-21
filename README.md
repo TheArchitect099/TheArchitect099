@@ -11,7 +11,7 @@ I'm keeping my personal projects private at the moment since my progress on them
 * Editor: VS Code, Cursor, LazyVim, Zed IDE
 
 ### The vibe
-🎮 Music • Games • Code • Art
+🎮 Music • Games • Code
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/b192131d-724c-4624-9488-d88ecfafd018" width="180" align="left" />
