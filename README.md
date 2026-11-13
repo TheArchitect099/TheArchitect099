@@ -9,6 +9,7 @@ I'm keeping my personal projects private at the moment since my progress on them
 ### Nerd Corner
 * Keyboards: Alligator GK-315 (main keyboard)
 * Editor: VS Code, Cursor, LazyVim, Zed IDE
+* AI: Claude Code, ChatGPT
 
 ### The vibe
 🎮 Music • Games • Code
